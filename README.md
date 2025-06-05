@@ -81,10 +81,6 @@ You can customize the application behavior through the "Advanced Settings" secti
 - OpenAI API key
 - Internet connection for API access
 
-## License
-
-MIT
-
 ## Acknowledgements
 
 This application uses the following technologies:
